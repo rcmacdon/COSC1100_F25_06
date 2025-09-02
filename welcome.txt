@@ -1,0 +1,6 @@
+Welcome to COSC1100 with Prof. Clint MacDonald, fall 2025.
+If you are reading this you have successfully accessed the course repository where classroom demonstrations, examples, and files will be posted throughout the term.
+This repository will be crucial for your learning and understanding of the materials covered in class.
+
+Looking forward to learning with you!
+Clint
