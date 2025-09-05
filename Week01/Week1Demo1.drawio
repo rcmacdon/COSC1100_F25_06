@@ -1,0 +1,163 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.0">
+  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
+    <mxGraphModel dx="2223" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G1mxflhttgqCm2C47i1i-1" value="Start or End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-2" value="Process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-3" value="Decision" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="890" y="50" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-5" value="User Input" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-6" value="Stored Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-7" value="Week 2 Demo 1 Flow Diagram&lt;br&gt;Clint MacDonald&lt;br&gt;Sept 5, 2025" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-8" target="G1mxflhttgqCm2C47i1i-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="380" as="sourcePoint" />
+            <mxPoint x="940" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-8" value="Start Program" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-11" target="G1mxflhttgqCm2C47i1i-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-11" value="Welcome the User and give some instructions" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="445" y="500" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-14" target="G1mxflhttgqCm2C47i1i-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-14" value="Ask the user for their name" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="660" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-16" target="G1mxflhttgqCm2C47i1i-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-16" value="Start Game or reset Game" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="445" y="870" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-18" target="G1mxflhttgqCm2C47i1i-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-18" value="Generate Random Number between min and max" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1020" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-20" target="G1mxflhttgqCm2C47i1i-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-20" value="Ask user for a guess between min and max" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1165" width="170" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-25" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-22" target="G1mxflhttgqCm2C47i1i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-27" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-22" target="G1mxflhttgqCm2C47i1i-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-22" value="was input a&lt;br&gt;number and in&lt;br&gt;correct range" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1360" width="250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-24" value="Show error message" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1430" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-26" target="G1mxflhttgqCm2C47i1i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-26" value="Increment the guess count" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1430" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-28" value="Try Again" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-24" target="G1mxflhttgqCm2C47i1i-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1560" as="sourcePoint" />
+            <mxPoint x="520" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-34" value="Too Low" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-29" target="G1mxflhttgqCm2C47i1i-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-35" value="Too High" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-29" target="G1mxflhttgqCm2C47i1i-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-36" value="Correct" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-29" target="G1mxflhttgqCm2C47i1i-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-29" value="Check if correct,&lt;br&gt;too high,&lt;br&gt;or too low" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1370" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-31" value="Message User that guess was too High" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="1190" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-32" value="Message User that guess was too Low" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1430" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-33" target="G1mxflhttgqCm2C47i1i-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-33" value="Congratulate User&lt;br&gt;and display number of guess it took" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="1700" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-31" target="G1mxflhttgqCm2C47i1i-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="1130" as="sourcePoint" />
+            <mxPoint x="1070" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="1240" />
+              <mxPoint x="860" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-32" target="G1mxflhttgqCm2C47i1i-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="1130" as="sourcePoint" />
+            <mxPoint x="1070" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1680" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-39" target="G1mxflhttgqCm2C47i1i-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-39" value="Play Again?" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1695" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-44" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-41" target="G1mxflhttgqCm2C47i1i-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-41" value="Play Again Answer" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1680" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-43" value="Exit Program" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1880" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G1mxflhttgqCm2C47i1i-45" value="Yes" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="G1mxflhttgqCm2C47i1i-41" target="G1mxflhttgqCm2C47i1i-16">
+          <mxGeometry x="-0.9128" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1330" as="sourcePoint" />
+            <mxPoint x="670" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="1750" />
+              <mxPoint x="40" y="920" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
