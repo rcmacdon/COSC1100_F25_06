@@ -94,13 +94,14 @@ print(menu)
 user_input = input("Enter your choice (1-4): ")
 
 match user_input:
-    case "1":
+    # New Game
+    case "1":                                               # New Game
         print("You chose to start a new game!")
-    case "2":
+    case "2":                                               # Continue Game
         print("You chose to continue an existing game!")
-    case "3":
+    case "3":                                               # Options
         print("You want to set the options!")
-    case "4":
+    case "4":                                               # Exit
         print("👋 Good-bye")
         exit()
     case _:
