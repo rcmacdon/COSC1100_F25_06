@@ -1,0 +1,27 @@
+MIDTERM TEST DETAILS
+
+Friday, October 10, 2025
+Start:  2:15pm
+End:    3:55pm
+
+Test Makeup:
+Part A - 10 Multiple Choice Questions (10 marks)
+Part B - 4 Practical Questions (5 marks each)
+TOTAL - 30 Marks   WEIGHTING: 16% of your final grade
+
+Test Format:
+The test will be conducted on paper.  You will only be permitted pen, pencil, eraser, pencil sharpener, a water bottle (sealed only), and your cheat sheet.
+NO ELECTRONIC DEVICES PERIOD - including headphones, ear buds, smart watches, calculators, cell phones, laptops, etc.
+
+Resources:
+You will be permitted one 2-sided 8.5x11 piece of paper for a cheat sheet.  The content of the sheet must be hand written and it must be the original copy (i.e. no prints or photocopies)
+
+Content Coverage:
+- Planning an Application (Flow charts and Pseudocode)
+- Variables, Variants, Working with numbers and strings
+- Select (IF structures)
+- Iteration (Looping - FOR, WHILE, FOR IN)
+- Data Validation
+- Exception Handling
+- Error Debugging
+
