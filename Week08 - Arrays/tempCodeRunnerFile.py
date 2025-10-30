@@ -1,1 +1,1 @@
-t(myAr
+attributes = [0,0,0,0,0,0]
