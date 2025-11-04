@@ -1,0 +1,1 @@
+ goAgain = input("Do you want to try again (y/n)").lower[0] == "y"
