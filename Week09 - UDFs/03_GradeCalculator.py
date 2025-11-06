@@ -102,7 +102,7 @@ def findStudent():
     index = findStudentIndexNumber(name)
     # use index number to get grade from grades array
     if index > -1: 
-        print("%s got %.2f /%" % (name, grades[index]))
+        print("%s got %.2f percent" % (name, grades[index]))
 
 
 def showStats():

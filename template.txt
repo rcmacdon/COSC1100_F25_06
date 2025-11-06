@@ -1,0 +1,24 @@
+# -------------------------------------
+# Title:        Student Grade Calculator
+# Author:       Clint MacDonald
+# Date:         Nov. 6, 2025
+# Purpose:      To see and practice more examples of implementing functions
+# -------------------------------------
+
+#region IMPORTS
+#endregion
+
+#region DECLARATIONS
+#endregion
+
+#region FUNCTIONS
+    #region INPUT FUNCTIONS
+    #endregion
+
+    #region CUSTOM FUNCTIONS
+    #endregion
+
+#endregion
+
+#region MAIN PROGRAM
+#endregion
