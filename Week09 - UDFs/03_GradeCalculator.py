@@ -128,7 +128,6 @@ def findStudentIndexNumber(name: str):
     else:
         print("That student could not be found")
         return -1
-    #endregion
 
 def calcSumGrades():
     sum = 0
@@ -158,7 +157,7 @@ def findMaxGrade():
     return max
 
 
-
+    #endregion
 #endregion
 
 #region MAIN PROGRAM
